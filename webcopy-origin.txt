@@ -1,0 +1,28 @@
+Uri: https://fonts.googleapis.com/css?family=Press+Start+2P
+File Name: C:\Downloaded Web Sites\www.haidoni.xyz\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/pressstart2p/v14/e3t4euO8T-267oIAQAu6jDQyK3nVivY.ttf
+File Name: C:\Downloaded Web Sites\www.haidoni.xyz\s\pressstart2p\v14\e3t4euO8T-267oIAQAu6jDQyK3nVivY.ttf
+Content Type: font/ttf
+
+Uri: https://www.haidoni.xyz/
+File Name: C:\Downloaded Web Sites\www.haidoni.xyz\index.htm
+Content Type: text/html
+
+Uri: https://www.haidoni.xyz/main.css
+File Name: C:\Downloaded Web Sites\www.haidoni.xyz\main.css
+Content Type: text/css
+
+Uri: https://www.haidoni.xyz/script.js
+File Name: C:\Downloaded Web Sites\www.haidoni.xyz\script.js
+Content Type: application/javascript
+
+Uri: https://www.haidoni.xyz/twitter-logo.svg
+File Name: C:\Downloaded Web Sites\www.haidoni.xyz\twitter-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://www.haidoni.xyz/vibes.ico
+File Name: C:\Downloaded Web Sites\www.haidoni.xyz\vibes.ico
+Content Type: image/vnd.microsoft.icon
+
